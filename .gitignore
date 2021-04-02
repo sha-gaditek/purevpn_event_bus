@@ -1,0 +1,6 @@
+# Compiled Python bytecode
+*.py[cod]
+__pycahche__
+
+# User settings
+.vscode/
