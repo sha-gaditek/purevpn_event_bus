@@ -10,7 +10,7 @@ setup(
     author='Syed Hammad Ahmed',
     author_email='syed.ahmed@purevpn.com',
     url='https://github.com/sha-gaditek/purevpn_event_bus',
-    download_url='https://github.com/sha-gaditek/purevpn_event_bus/archive/refs/tags/0.0.1.tar.gz',
+    download_url='https://github.com/sha-gaditek/purevpn_event_bus/archive/refs/tags/0.0.2.tar.gz',
     keywords=[
         'DDD',
         'Event Bus'
